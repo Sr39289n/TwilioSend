@@ -14,7 +14,7 @@ $message = $twilio->messages
                   ->create(" ", // add your own number to send message to 
                            array( 
                                "from" => "+12672744008",       
-                               "body" => "Your message" 
+                               "body" => "Hello from Shreyas Rathod CS 643 Fall 2018" 
                            ) 
                   ); 
  
